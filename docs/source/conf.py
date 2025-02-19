@@ -1,9 +1,4 @@
 # Configuration file for the Sphinx documentation builder.
-from recommonmark.parser import CommonMarkParser
-
-source_parsers = {'.md': CommonMarkParser}
-
-source_suffix = ['.rst', '.md']
 
 # -- Project information
 
@@ -22,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphynx_termynal',
+    'sphynx_terminal',
 ]
 
 intersphinx_mapping = {
