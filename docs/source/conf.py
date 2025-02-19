@@ -27,6 +27,15 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+html_css_files = [
+    'css/custom.css',
+    'css/termynal.css',
+]
+
+html_js_files = [
+    'js/termynal.js',
+]
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
