@@ -4,9 +4,9 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use this project, first install it using pip:
 
 .. termynal:: 
-   $ pip install sphinx-termynal
+   $ pip install some-project
    -->100%
-   sphinx-termynal installed
+   some-project installed
